@@ -1,0 +1,15 @@
+html, body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 46px;
+  text-align: center;
+  text-decoration-color: green;
+
+}
+
+p {
+  font-size: 24px;
+
+}
